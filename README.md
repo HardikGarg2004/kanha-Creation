@@ -6,10 +6,6 @@ The Furniture E-commerce project is a specialized e-commerce platform designed f
 
 
 
-## Screenshots
-
-[![App Screenshot](./public/furniture-screenshot.png)](https://ecommerce-furniture-anrsgrl.netlify.app/)
-
 ## Tech Stack
 - **JavaScript:** The primary programming language.
 - **React:** Utilized for building the user interface.
@@ -23,7 +19,7 @@ The Furniture E-commerce project is a specialized e-commerce platform designed f
 Clone the project
 
 ```bash
-  git clone https://github.com/Anrsgrl/ecommerce-furniture
+  git clone https://github.com/HardikGarg2004/Kanha-Creation
 ```
 
 Go to the project directory
@@ -45,6 +41,3 @@ Start the server
 ```
 
 
-## Authors
-
-- [Anrsgrl](https://www.github.com/Anrsgrl)
